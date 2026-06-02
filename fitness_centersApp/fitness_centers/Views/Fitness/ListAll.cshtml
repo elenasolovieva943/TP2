@@ -1,0 +1,164 @@
+﻿@model fitness_centersApp.Models.FitnessCenter[]
+
+@helper FormatRating(double rating)
+{
+    string stars = "";
+    int fullStars = (int)rating;
+    bool hasHalfStar = (rating - fullStars) >= 0.5;
+
+    for (int i = 0; i < fullStars; i++)
+    {
+        stars += "★";
+    }
+
+    if (hasHalfStar)
+    {
+        stars += "½";
+    }
+
+    for (int i = stars.Length; i < 5; i++)
+    {
+        stars += "☆";
+    }
+
+    <span style="color: #ffc107; font-size: 18px;">@Html.Raw(stars)</span>
+    <span style="color: #666;">(@rating)</span>
+}
+
+@{
+    ViewBag.Title = "Фитнес-центры";
+}
+
+<style>
+    .page-box {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        max-width: 1200px;
+        margin: auto;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+    }
+
+    th {
+        background: #007bff;
+        color: white;
+    }
+
+    tr:hover {
+        background: #f5f5f5;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 8px 15px;
+        background: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+
+    .btn-add {
+        background: #28a745;
+    }
+
+    .helper-info {
+        background: #e9ecef;
+        padding: 10px;
+        border-radius: 4px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .view-link {
+        color: #17a2b8;
+        margin-right: 8px;
+    }
+
+    .edit-link {
+        color: #007bff;
+        margin-right: 8px;
+    }
+
+    .delete-link {
+        color: red;
+    }
+</style>
+
+<div class="page-box">
+    <h2>Фитнес-центры</h2>
+
+    <div class="helper-info">
+        @if (ViewData["UseInternalHelper"] != null && (bool)ViewData["UseInternalHelper"])
+        {
+            <span>Используется <strong>внутренний</strong> вспомогательный метод</span>
+        }
+        else
+        {
+            <span>Используется <strong>внешний</strong> вспомогательный метод</span>
+        }
+    </div>
+
+    <p style="text-align: right;">
+        @Html.ActionLink("+ Добавить новый", "Create", "Fitness", null, new { @class = "btn btn-add" })
+    </p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Название</th>
+                <th>Адрес</th>
+                <th>Телефон</th>
+                <th>Тренажёры</th>
+                <th>Рейтинг</th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Length == 0)
+            {
+                <tr>
+                    <td colspan="7" style="text-align: center;">Нет записей</td>
+                </tr>
+            }
+            else
+            {
+                foreach (var center in Model)
+                {
+                    <tr>
+                        <td>@center.Id</td>
+                        <td>@center.Name</td>
+                        <td>@center.Address</td>
+                        <td>@center.Phone</td>
+                        <td>@center.EquipmentCount</td>
+                        <td>
+                            @if (ViewData["UseInternalHelper"] != null && (bool)ViewData["UseInternalHelper"])
+                            {
+                                @FormatRating(center.Rating)
+                            }
+                            else
+                            {
+                                @fitness_centersApp.Helpers.FitnessHelpers.DisplayRating(Html, center.Rating)
+                            }
+                        </td>
+                        <td>
+                            @Html.ActionLink("Просмотр", "Details", "Fitness", new { id = center.Id }, new { @class = "view-link" })
+                            @Html.ActionLink("Изменить", "Edit", "Fitness", new { id = center.Id }, new { @class = "edit-link" })
+                            @Html.ActionLink("Удалить", "Delete", "Fitness", new { id = center.Id }, new { @class = "delete-link", onclick = "return confirm('Удалить?');" })
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

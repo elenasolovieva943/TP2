@@ -1,0 +1,73 @@
+﻿@model fitness_centersApp.Models.FitnessCenter
+
+@{
+    ViewBag.Title = "Просмотр фитнес-центра";
+}
+
+<style>
+    .page-box {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        max-width: 700px;
+        margin: auto;
+    }
+
+    .field {
+        margin-bottom: 15px;
+    }
+
+        .field label {
+            font-weight: bold;
+            display: block;
+        }
+</style>
+
+<div class="page-box">
+    <h2>Просмотр фитнес-центра</h2>
+
+    <div class="field">
+        @Html.LabelFor(m => m.Id)
+        @Html.DisplayFor(m => m.Id)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.Name)
+        @Html.DisplayFor(m => m.Name)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.Address)
+        @Html.DisplayFor(m => m.Address)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.Phone)
+        @Html.DisplayFor(m => m.Phone)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.EquipmentCount)
+        @Html.DisplayFor(m => m.EquipmentCount)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.WorkingHours)
+        @Html.DisplayFor(m => m.WorkingHours)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.Description)
+        @Html.DisplayFor(m => m.Description)
+    </div>
+
+    <div class="field">
+        @Html.LabelFor(m => m.Rating)
+        @Html.DisplayFor(m => m.Rating)
+    </div>
+
+    <p>
+        @Html.ActionLink("Изменить", "Edit", "Fitness", new { id = Model.Id }, null)
+        @Html.ActionLink(" | Назад к списку", "ListAll", "Fitness")
+    </p>
+</div>

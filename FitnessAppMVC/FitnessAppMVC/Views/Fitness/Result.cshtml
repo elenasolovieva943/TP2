@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "Результат добавления";
+}
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        background: #f0f0f0;
+    }
+
+    .container {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        max-width: 500px;
+        margin: auto;
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #28a745;
+    }
+
+    .info {
+        margin: 10px 0;
+        padding: 10px;
+        background: #f8f9fa;
+        border-radius: 4px;
+    }
+
+    .label {
+        font-weight: bold;
+        display: inline-block;
+        width: 150px;
+    }
+
+    .btn {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background: #007bff;
+        color: white;
+        text-decoration: none;
+        border-radius: 4px;
+    }
+
+        .btn:hover {
+            background: #0056b3;
+        }
+</style>
+
+<div class="container">
+    <h2>Фитнес-центр добавлен</h2>
+
+    <div class="info">
+        <span class="label">ID:</span> @ViewBag.Id
+    </div>
+    <div class="info">
+        <span class="label">Название:</span> @ViewBag.Name
+    </div>
+    <div class="info">
+        <span class="label">Адрес:</span> @ViewBag.Address
+    </div>
+    <div class="info">
+        <span class="label">Телефон:</span> @ViewBag.Phone
+    </div>
+    <div class="info">
+        <span class="label">Время работы:</span> @ViewBag.WorkingHours
+    </div>
+    <div class="info">
+        <span class="label">Наличие бассейна:</span> @ViewBag.HasPool
+    </div>
+
+    <a href="@Url.Action("Index", "Fitness")" class="btn">Добавить ещё</a>
+</div>

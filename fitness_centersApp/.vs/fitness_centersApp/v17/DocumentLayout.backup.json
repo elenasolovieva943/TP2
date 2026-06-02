@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laba 1-3\\fitness_centersApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\controllers\\fitnesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\controllers\\fitnesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\views\\fitness\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\views\\fitness\\listall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\views\\fitness\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\views\\fitness\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\views\\fitness\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\views\\fitness\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\views\\fitness\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\views\\fitness\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\models\\fitnesscenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\models\\fitnesscenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|d:\\laba 1-3\\fitness_centersapp\\fitness_centers\\helpers\\fitnesshelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\helpers\\fitnesshelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\global.asax||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\global.asax||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA8B773-6CD5-43C7-9349-132DDE2834A7}|fitness_centers\\fitness_centers.csproj|solutionrelative:fitness_centers\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\Details.cshtml",
+              "RelativeDocumentMoniker": "fitness_centers\\Views\\Fitness\\Details.cshtml",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\Details.cshtml",
+              "RelativeToolTip": "fitness_centers\\Views\\Fitness\\Details.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T12:36:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FitnessController.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Controllers\\FitnessController.cs",
+              "RelativeDocumentMoniker": "fitness_centers\\Controllers\\FitnessController.cs",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Controllers\\FitnessController.cs*",
+              "RelativeToolTip": "fitness_centers\\Controllers\\FitnessController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:54:12.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fitnesscenter.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Models\\Fitnesscenter.cs",
+              "RelativeDocumentMoniker": "fitness_centers\\Models\\Fitnesscenter.cs",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Models\\Fitnesscenter.cs",
+              "RelativeToolTip": "fitness_centers\\Models\\Fitnesscenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:53:39.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\Create.cshtml",
+              "RelativeDocumentMoniker": "fitness_centers\\Views\\Fitness\\Create.cshtml",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\Create.cshtml",
+              "RelativeToolTip": "fitness_centers\\Views\\Fitness\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T10:20:09.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\Edit.cshtml",
+              "RelativeDocumentMoniker": "fitness_centers\\Views\\Fitness\\Edit.cshtml",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\Edit.cshtml",
+              "RelativeToolTip": "fitness_centers\\Views\\Fitness\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T09:56:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FitnessHelpers.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Helpers\\FitnessHelpers.cs",
+              "RelativeDocumentMoniker": "fitness_centers\\Helpers\\FitnessHelpers.cs",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Helpers\\FitnessHelpers.cs",
+              "RelativeToolTip": "fitness_centers\\Helpers\\FitnessHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:39:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListAll.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\ListAll.cshtml",
+              "RelativeDocumentMoniker": "fitness_centers\\Views\\Fitness\\ListAll.cshtml",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Fitness\\ListAll.cshtml",
+              "RelativeToolTip": "fitness_centers\\Views\\Fitness\\ListAll.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T10:15:14.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "fitness_centers\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "fitness_centers\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T10:09:18.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "fitness_centers\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "fitness_centers\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T10:09:40.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "fitness_centers\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "fitness_centers\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:56:48.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.asax",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Global.asax",
+              "RelativeDocumentMoniker": "fitness_centers\\Global.asax",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Global.asax",
+              "RelativeToolTip": "fitness_centers\\Global.asax",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2026-05-18T09:58:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Global.asax.cs",
+              "RelativeDocumentMoniker": "fitness_centers\\Global.asax.cs",
+              "ToolTip": "D:\\laba 1-3\\fitness_centersApp\\fitness_centers\\Global.asax.cs",
+              "RelativeToolTip": "fitness_centers\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:00:58.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

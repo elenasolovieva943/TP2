@@ -1,0 +1,36 @@
+﻿@model fitness_centersApp.Models.FitnessCenter
+
+@{
+    ViewBag.Title = "Редактирование фитнес-центра";
+}
+
+<style>
+    .page-box {
+        background: white;
+        padding: 20px;
+        border-radius: 8px;
+        max-width: 700px;
+        margin: auto;
+    }
+</style>
+
+<div class="page-box">
+    <h2>Редактирование фитнес-центра</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true, "Исправьте ошибки:")
+        @Html.HiddenFor(m => m.Id)
+
+        @Html.LabelForModel()
+        @Html.EditorForModel()
+
+        <p style="margin-top: 20px;">
+            <button type="submit">Сохранить</button>
+        </p>
+    }
+
+    <p>
+        @Html.ActionLink("Назад к списку", "ListAll")
+    </p>
+</div>

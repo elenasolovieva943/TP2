@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\laba 1-3\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|d:\\laba 1-3\\calculatorapp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\calculator\\operationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\calculator\\operationdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\models\\calculationmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\models\\calculationmodelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|D:\\laba 1-3\\CalculatorApp\\\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8240855B-4078-481A-A2FF-3EE895CACEBF}|\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440.csproj|solutionrelative:\u043A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:41:11.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationDetails.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\OperationDetails.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\OperationDetails.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\OperationDetails.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\OperationDetails.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T09:30:41.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Content\\Site.css",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Content\\Site.css",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Content\\Site.css",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Content\\Site.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAFQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-18T09:13:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:44:49.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-18T08:34:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:32:11.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:15:50.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculationModelcs.cs",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Models\\CalculationModelcs.cs",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Models\\CalculationModelcs.cs",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Models\\CalculationModelcs.cs",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Models\\CalculationModelcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T08:31:22.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-30T12:07:52.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:15:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\laba 1-3\\CalculatorApp\\\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "\u041A\u0430\u043B\u044C\u043A\u0443\u043B\u044F\u0442\u043E\u0440\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T16:15:55.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

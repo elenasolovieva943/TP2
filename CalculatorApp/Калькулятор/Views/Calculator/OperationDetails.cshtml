@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Детали операции";
+}
+
+@section styles {
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+            background: #f0f0f0;
+        }
+
+        .details-container {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 500px;
+            margin: auto;
+            text-align: center;
+        }
+
+        .operation-info {
+            font-size: 24px;
+            margin: 30px 0;
+            padding: 20px;
+            background: #e9ecef;
+            border-radius: 8px;
+        }
+    </style>
+}
+
+<div class="details-container">
+    <h2>Детали операции</h2>
+
+    @if (ViewBag.OperationString != null)
+    {
+        <div class="operation-info">
+            <strong>@ViewBag.OperationString</strong>
+        </div>
+    }
+    else
+    {
+        <p>Нет данных об операции.</p>
+    }
+
+    @Html.ActionLink("Вернуться к калькулятору", "Index", "Calculator", null, new { @class = "back-link" })
+</div>

@@ -1,0 +1,123 @@
+﻿@model CalculatorApp.Models.CalculatorModel
+@{
+    ViewBag.Title = "Калькулятор";
+}
+
+@section styles {
+    <style>
+        body {
+            font-family: Arial;
+            padding: 20px;
+            background: #f0f0f0;
+        }
+
+        .calculator {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 450px;
+            margin: auto;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: inline-block;
+            width: 120px;
+            font-weight: bold;
+        }
+
+        input, select {
+            padding: 5px;
+            width: 200px;
+        }
+
+            select[multiple] {
+                height: 100px;
+            }
+
+        .result {
+            margin-top: 20px;
+            padding: 10px;
+            background: #e9ecef;
+            border-radius: 4px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .success {
+            color: green;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .warning {
+            color: orange;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+}
+
+<div class="calculator">
+    <h2>Калькулятор</h2>
+
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true, "Пожалуйста, исправьте следующие ошибки:", new { @class = "validation-summary-errors" })
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Operand1)
+            @Html.TextBoxFor(m => m.Operand1, new { type = "number", step = "1", @class = "textBoxStyle" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Operand2)
+            @Html.TextBoxFor(m => m.Operand2, new { type = "number", step = "1", @class = "textBoxStyle" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(m => m.Operation)
+            @Html.ListBoxFor(m => m.Operation,
+                     new MultiSelectList(new[] { "+", "-", "*", "/" }),
+                     new { @class = "listBoxStyle", size = 4 })
+        </div>
+
+        <button type="submit" name="action" value="calculate" class="btn-calculate">Вычислить</button>
+        <button type="submit" name="action" value="clear" class="btn-clear">Очистить</button>
+    }
+
+    @if (ViewBag.Calculated == true && ViewData.ModelState.IsValid)
+    {
+        <div class="result">
+            <strong>Результат:</strong> @Model.Operand1 @Model.Operation @Model.Operand2 = @Model.Result
+        </div>
+
+        if (Model.Result == (double)ViewBag.ExpectedResult)
+        {
+            <div class="success">
+                Результат совпадает с ожидаемым значением (@ViewBag.ExpectedResult)
+            </div>
+        }
+        else
+        {
+            <div class="warning">
+                Результат отличается от ожидаемого (@ViewBag.ExpectedResult)
+            </div>
+        }
+
+        <div style="margin-top: 15px; text-align: center;">
+            @Html.ActionLink("Подробнее об операции →", "OperationDetails", "Calculator",
+                     new
+                     {
+                         op1 = Model.Operand1,
+                         op2 = Model.Operand2,
+                         operation = Model.Operation,
+                         result = Model.Result
+                     },
+                     new { @class = "details-link" })
+        </div>
+    }
+</div>

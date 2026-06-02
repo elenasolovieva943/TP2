@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="fitness_centersApp.MvcApplication" Language="C#" %>
